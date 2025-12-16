@@ -3,7 +3,7 @@
 
 This repository contains the material and structure used during the Power Platform hackathon.
 
-The goal is **not** to build a production-ready system, but to give pro developers a realistic, hands-on introduction to:
+The goal is **not** to build a production-ready system (in terms of stuff like SDLC, code architecture, ALM etc.), but to give pro developers a realistic, hands-on introduction to:
 
 * Dataverse tables
 * C# plug-ins

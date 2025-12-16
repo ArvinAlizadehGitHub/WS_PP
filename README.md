@@ -251,6 +251,10 @@ If time allows:
 * Compare client-side vs server-side enforcement
 
 
+Docs: 
+*Plugins* [C# server side plugin docs](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/tutorial-write-plug-in)
+*Webresources* (Client side scripting): [JS client side scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/streamline-javascript-development-fiddler-autoresponder)
+
 ---
 
 End of guide

@@ -1,22 +1,12 @@
 # WS_PP
 # Power Platform Hackathon – Vehicle Registration
 
-This repository contains the material and structure used during the Power Platform hackathon.
-
 The goal is **not** to build a production-ready system (in terms of stuff like SDLC, code architecture, ALM etc.), but to give pro developers a realistic, hands-on introduction to:
 
 * Dataverse tables
 * C# plug-ins
 * (Optionally) form JavaScript
 * A clean, repeatable developer workflow
-
-We deliberately avoid:
-
-* SQL connectivity
-* AI features
-* Advanced ALM pipelines
-
-Instead, we simulate external data and focus on **core platform mechanics**.
 
 ---
 
